@@ -8,7 +8,14 @@ description: >-
 tags:
   - flavor
   - tasting
-image: /img/products-grid2.jpg
+thumbnail: >-
+  /img/soft-velvet-texture-delicate-pink-color-concept-femininity-home-comfort-warmth-105987201.jpg
+about: >-
+  For over 30 years, SCAA has been dedicated to creating a vibrant specialty
+  coffee community by recognizing, developing and promoting specialty coffee.
+  SCAA sets and maintains quality standards for the industry, conducts market
+  research, and provides education, training, resources, and business services
+  for its members.
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
